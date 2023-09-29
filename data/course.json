@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Latin American History"
+    ],
+    [
+      "Society",
+      "Latin and Caribbean Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "08c79820-2763-63af-a675-f025049f3544",
+  "instructors": {
+    "content": [
+      "fb803609-b896-c081-b3cb-f27d9ef3ed9d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2c0bd1b3-1914-bef7-157e-88f422e95605",
+    "website": "21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005"
+  },
+  "course_title": "Modern Latin America, 1808-Present: Revolution, Dictatorship, Democracy",
+  "course_description": "This class is a selective survey of Latin American history from the beginning of the twentieth century to the present.\u00a0Issues studied include Latin America in the global economy, relations between Latin America and the U.S., dictatorships and democracies in the twentieth century, African and Indigenous cultures, feminism and gender, cultural politics, revolution in Mexico, Cuba, and Central America, and Latin American identity.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.802",
+  "course_image_thumbnail": {
+    "content": "5da416d2-575a-84d0-1190-b30e4d929763",
+    "website": "21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "3f037031-ce9e-48aa-9e3d-9272bef0d171",
+  "site_short_id": "21h.802-spring-2005",
+  "title": "Course Metadata"
+}
